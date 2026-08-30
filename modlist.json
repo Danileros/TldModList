@@ -30,7 +30,7 @@
 			"tags": "audio, music, soundtrack, stalking",
 			"categories": [ "Audio" ],
 			"gameversion": [ "vanilla" ],
-			"images": [ "https://github.com/Danileros/TldModList/raw/master/logo_LongLargo.jpg" ],
+			"images": [ "https://raw.githubusercontent.com/Danileros/TldModList/main/logo_LongLargo.jpg" ],
 			"dependencies": [
 				"ModSettings",
 				"AudioCore",
@@ -70,7 +70,7 @@
 			"tags": "debug",
 			"categories": [ "Utility Mod" ],
 			"gameversion": [ "vanilla" ],
-			"images": [ "https://github.com/Danileros/TldModList/raw/master/logo_DebugOutput.jpg" ],
+			"images": [ "https://raw.githubusercontent.com/Danileros/TldModList/main/logo_DebugOutput.jpg" ],
 			"dependencies": [ ],
 			"updater": {
 				"enable": true,
@@ -106,7 +106,7 @@
 			"tags": "fire, firestart, fuel",
 			"categories": [ "Quality of Life" ],
 			"gameversion": [ "vanilla" ],
-			"images": [ "https://github.com/Danileros/TldModList/raw/master/logo_QoLFirestart.png" ],
+			"images": [ "https://raw.githubusercontent.com/Danileros/TldModList/main/logo_QoLFirestart.png" ],
 			"dependencies": [ ],
 			"updater": {
 				"enable": true,
@@ -142,7 +142,7 @@
 			"tags": "fire, firestart, fuel",
 			"categories": [ "Quality of Life" ],
 			"gameversion": [ "vanilla" ],
-			"images": [ "https://github.com/Danileros/TldModList/raw/master/logo_QoLStaminaStays.jpg" ],
+			"images": [ "https://raw.githubusercontent.com/Danileros/TldModList/main/logo_QoLStaminaStays.jpg" ],
 			"dependencies": [ ],
 			"updater": {
 				"enable": true,
